@@ -6,6 +6,8 @@ This program were made by python and pyinstaller.
 
 Library : tkinter and PIL
 
-import/export format : JPEG, JPG, WEBP, PNG, JFIF
+import/export format : JPG, JPEG, WEBP, PNG, JFIF
 
 No need to install, you can just download and click .exe file to use the program
+
+WARNING! window defender may see .exe file as a virus. It will delete the file almost immediately. You have to allow the program in the allowed list to use it. Make sure you allow the correct one.
